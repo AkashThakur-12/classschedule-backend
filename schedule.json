@@ -1,0 +1,4162 @@
+{
+  "cs": {
+    "1": [
+      {
+        "id": 1,
+        "branch": "CS",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 2,
+        "branch": "CS",
+        "sem": "1",
+        "day": "MON",
+        "subject": "DataBase Management System",
+        "time": "11:15 - 01:20"
+      },
+      {
+        "id": 3,
+        "branch": "CS",
+        "sem": "1",
+        "day": "MON",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 4,
+        "branch": "CS",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Web Development",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 5,
+        "branch": "CS",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Sport Class",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 6,
+        "branch": "CS",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 7,
+        "branch": "CS",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "DataBase Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 8,
+        "branch": "CS",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 9,
+        "branch": "CS",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 10,
+        "branch": "CS",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "CTP Lab",
+        "time": "03:35 - 05:40"
+      },
+      {
+        "id": 11,
+        "branch": "CS",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 12,
+        "branch": "CS",
+        "sem": "1",
+        "day": "WED",
+        "subject": "DataBase Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 13,
+        "branch": "CS",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 14,
+        "branch": "CS",
+        "sem": "1",
+        "day": "WED",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 15,
+        "branch": "CS",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Web Development",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 16,
+        "branch": "CS",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 17,
+        "branch": "CS",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "DataBase Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 18,
+        "branch": "CS",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 19,
+        "branch": "CS",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 20,
+        "branch": "CS",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Web Development",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 21,
+        "branch": "CS",
+        "sem": "1",
+        "day": "FRI",
+        "subject": "SPS Lab",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 22,
+        "branch": "CS",
+        "sem": "1",
+        "day": "FRI",
+        "subject": "Web Dev Lab",
+        "time": "03:35 - 04:35"
+      }
+    ],
+    "2": [
+      {
+        "id": 1,
+        "branch": "CS",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Computer Organization & Architecture",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 2,
+        "branch": "CS",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Data Structures",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 3,
+        "branch": "CS",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Professional Communication",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 4,
+        "branch": "CS",
+        "sem": "2",
+        "day": "MON",
+        "subject": "OOPS & System Design",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 5,
+        "branch": "CS",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Computer Organization & Architecture",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 6,
+        "branch": "CS",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Data Structures",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 7,
+        "branch": "CS",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Professional Communication",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 8,
+        "branch": "CS",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "OOPS & System Design",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 9,
+        "branch": "CS",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Computer Organization & Architecture",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 10,
+        "branch": "CS",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Data Structures",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 11,
+        "branch": "CS",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Professional Communication",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 12,
+        "branch": "CS",
+        "sem": "2",
+        "day": "WED",
+        "subject": "OOPS & System Design",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 13,
+        "branch": "CS",
+        "sem": "2",
+        "day": "THUR",
+        "subject": "Web Design & App Dev-II LAB",
+        "time": "09:00 - 11:00"
+      },
+      {
+        "id": 14,
+        "branch": "CS",
+        "sem": "2",
+        "day": "THUR",
+        "subject": "Data Structures LAB",
+        "time": "14:30 - 16:30"
+      },
+      {
+        "id": 15,
+        "branch": "CS",
+        "sem": "2",
+        "day": "FRI",
+        "subject": "Web Design & App Dev-II",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 16,
+        "branch": "CS",
+        "sem": "2",
+        "day": "FRI",
+        "subject": "OOPS & System Design LAB",
+        "time": "11:00 - 13:00"
+      },
+      {
+        "id": 17,
+        "branch": "CS",
+        "sem": "2",
+        "day": "SAT",
+        "subject": "Web Design & App Dev-II",
+        "time": "11:00 - 13:00"
+      }
+    ],
+    "3": [
+      {
+        "id": 1,
+        "branch": "CS",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Probability and Statistics",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 2,
+        "branch": "CS",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 3,
+        "branch": "CS",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Software Engineering",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 4,
+        "branch": "CS",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Data Communication",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 5,
+        "branch": "CS",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Sports - III",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 6,
+        "branch": "CS",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Probability and Statistics",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 7,
+        "branch": "CS",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Theory of Automata",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 8,
+        "branch": "CS",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Software Engineering",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 9,
+        "branch": "CS",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 10,
+        "branch": "CS",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Data Communication",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 11,
+        "branch": "CS",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Probability and Statistics",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 12,
+        "branch": "CS",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Theory of Automata",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 13,
+        "branch": "CS",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Software Engineering",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 14,
+        "branch": "CS",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Data Communication",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 15,
+        "branch": "CS",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Theory of Automata",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 16,
+        "branch": "CS",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 17,
+        "branch": "CS",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Software Engineering LAB",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 18,
+        "branch": "CS",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Competitive Coding - I",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 19,
+        "branch": "CS",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Design and Analysis of Algorithms LAB",
+        "time": "15:35 - 16:35"
+      }
+    ],
+    "4": [
+      {
+        "id": 1,
+        "branch": "CS",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Compiler Design",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 2,
+        "branch": "CS",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Maths for CS-I",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 3,
+        "branch": "CS",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Operating System",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 4,
+        "branch": "CS",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Programming & Data Structures",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 5,
+        "branch": "CS",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Compiler Design",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 6,
+        "branch": "CS",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Maths for CS-I",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 7,
+        "branch": "CS",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Computer Networks",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 8,
+        "branch": "CS",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Programming & Data Structures",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 9,
+        "branch": "CS",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Compiler Design",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 10,
+        "branch": "CS",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Maths for CS-I",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 11,
+        "branch": "CS",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Computer Networks",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 12,
+        "branch": "CS",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Programming & Data Structures",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 13,
+        "branch": "CS",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Compiler Design",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 14,
+        "branch": "CS",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Operating System",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 15,
+        "branch": "CS",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Operating System Lab",
+        "time": "03:35 - 05:35"
+      },
+      {
+        "id": 16,
+        "branch": "CS",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Programming & Data Structures Lab",
+        "time": "10:05 - 12:05"
+      },
+      {
+        "id": 17,
+        "branch": "CS",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Competitive Coding",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 18,
+        "branch": "CS",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Computer Networks Lab",
+        "time": "02:30 - 04:30"
+      }
+    ],
+    "6": [
+      {
+        "id": 1,
+        "branch": "CS",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 2,
+        "branch": "CS",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Probability & Statistics (MS)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 3,
+        "branch": "CS",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Techno-Entrepreneurship",
+        "time": "11:45 - 01:15"
+      },
+      {
+        "id": 4,
+        "branch": "CS",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Elective-II",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "CS",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 6,
+        "branch": "CS",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Probability & Statistics (MS)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 7,
+        "branch": "CS",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Techno-Entrepreneurship",
+        "time": "11:45 - 01:15"
+      },
+      {
+        "id": 8,
+        "branch": "CS",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Elective-II",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 9,
+        "branch": "CS",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 10,
+        "branch": "CS",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Probability & Statistics (MS)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 11,
+        "branch": "CS",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Techno-Entrepreneurship",
+        "time": "11:45 - 01:15"
+      },
+      {
+        "id": 12,
+        "branch": "CS",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Elective-II",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 13,
+        "branch": "CS",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Competitive Coding Tutorial",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 14,
+        "branch": "CS",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Probability & Statistics Tutorial",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 15,
+        "branch": "CS",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Elective-II Lab",
+        "time": "02:30 - 04:30"
+      },
+      {
+        "id": 16,
+        "branch": "CS",
+        "sem": "6",
+        "day": "FRI",
+        "subject": "Computer Networks Lab",
+        "time": "11:45 - 01:15"
+      }
+    ],
+    "7": [
+      {
+        "id": 1,
+        "branch": "CS",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Data Mining & Warehousing (SAS)",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 2,
+        "branch": "CS",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Professional Ethics (PE)",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 3,
+        "branch": "CS",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Reinforcement Learning / FinTech (SS/VF)",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 4,
+        "branch": "CS",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Natural Language Processing (GS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "CS",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Data Mining & Warehousing (SAS)",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 6,
+        "branch": "CS",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Professional Ethics (PE)",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 7,
+        "branch": "CS",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Reinforcement Learning / FinTech (SS/VF)",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 8,
+        "branch": "CS",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Natural Language Processing (GS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 9,
+        "branch": "CS",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Data Mining & Warehousing (SAS)",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 10,
+        "branch": "CS",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Reinforcement Learning / FinTech (SS/VF)",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 11,
+        "branch": "CS",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Natural Language Processing (GS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 12,
+        "branch": "CS",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Data Mining & Warehousing (SAS)",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 13,
+        "branch": "CS",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Reinforcement Learning / FinTech LAB (SS/VF LAB)",
+        "time": "11:15 - 01:20"
+      },
+      {
+        "id": 14,
+        "branch": "CS",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Natural Language Processing (GS)",
+        "time": "02:30 - 03:30"
+      }
+    ],
+    "5": [
+      {
+        "id": 1,
+        "branch": "CS",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Machine Learning",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 2,
+        "branch": "CS",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Foundations of Cryptography",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 3,
+        "branch": "CS",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Elective-I (AI / Blockchain / SC)",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 4,
+        "branch": "CS",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Computer Graphics",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 5,
+        "branch": "CS",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Mathematics for CS-II",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 6,
+        "branch": "CS",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Elective-I (AI / Blockchain / SC)",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 7,
+        "branch": "CS",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Machine Learning",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 8,
+        "branch": "CS",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Foundations of Cryptography",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 9,
+        "branch": "CS",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Elective-I (AI / Blockchain / SC)",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 10,
+        "branch": "CS",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Computer Graphics",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 11,
+        "branch": "CS",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Mathematics for CS-II",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 12,
+        "branch": "CS",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Elective-I (AI / Blockchain / SC)",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 13,
+        "branch": "CS",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Machine Learning",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 14,
+        "branch": "CS",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Foundations of Cryptography",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 15,
+        "branch": "CS",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Elective-I (AI / Blockchain / SC)",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 16,
+        "branch": "CS",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Computer Graphics",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 17,
+        "branch": "CS",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Mathematics for CS-II",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 18,
+        "branch": "CS",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Elective-I LAB",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 19,
+        "branch": "CS",
+        "sem": "5",
+        "day": "THUR",
+        "subject": "Elective-I LAB",
+        "time": "11:15 - 13:20"
+      },
+      {
+        "id": 20,
+        "branch": "CS",
+        "sem": "5",
+        "day": "THUR",
+        "subject": "Elective-I (AI / Blockchain / SC)",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 21,
+        "branch": "CS",
+        "sem": "5",
+        "day": "THUR",
+        "subject": "Computer Graphics LAB",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 22,
+        "branch": "CS",
+        "sem": "5",
+        "day": "FRI",
+        "subject": "Competitive Coding-III",
+        "time": "14:30 - 15:30"
+      }
+    ]
+  },
+  "it": {
+    "1": [
+      {
+        "id": 1,
+        "branch": "IT",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 2,
+        "branch": "IT",
+        "sem": "1",
+        "day": "MON",
+        "subject": "DataBase Management System",
+        "time": "11:15 - 01:20"
+      },
+      {
+        "id": 3,
+        "branch": "IT",
+        "sem": "1",
+        "day": "MON",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 4,
+        "branch": "IT",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Web Development",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 5,
+        "branch": "IT",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Sport Class",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 6,
+        "branch": "IT",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 7,
+        "branch": "IT",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "DataBase Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 8,
+        "branch": "IT",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 9,
+        "branch": "IT",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 10,
+        "branch": "IT",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "CTP Lab",
+        "time": "03:35 - 05:40"
+      },
+      {
+        "id": 11,
+        "branch": "IT",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 12,
+        "branch": "IT",
+        "sem": "1",
+        "day": "WED",
+        "subject": "DataBase Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 13,
+        "branch": "IT",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 14,
+        "branch": "IT",
+        "sem": "1",
+        "day": "WED",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 15,
+        "branch": "IT",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Web Development",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 16,
+        "branch": "IT",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 17,
+        "branch": "IT",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "DataBase Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 18,
+        "branch": "IT",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 19,
+        "branch": "IT",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 20,
+        "branch": "IT",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Web Development",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 21,
+        "branch": "IT",
+        "sem": "1",
+        "day": "FRI",
+        "subject": "SPS Lab",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 22,
+        "branch": "IT",
+        "sem": "1",
+        "day": "FRI",
+        "subject": "Web Dev Lab",
+        "time": "03:35 - 04:35"
+      }
+    ],
+    "2": [
+      {
+        "id": 1,
+        "branch": "IT",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Computer Organization & Architecture",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 2,
+        "branch": "IT",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Data Structures",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 3,
+        "branch": "IT",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Professional Communication",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 4,
+        "branch": "IT",
+        "sem": "2",
+        "day": "MON",
+        "subject": "OOPS & System Design",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 5,
+        "branch": "IT",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Computer Organization & Architecture",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 6,
+        "branch": "IT",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Data Structures",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 7,
+        "branch": "IT",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Professional Communication",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 8,
+        "branch": "IT",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "OOPS & System Design",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 9,
+        "branch": "IT",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Computer Organization & Architecture",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 10,
+        "branch": "IT",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Data Structures",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 11,
+        "branch": "IT",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Professional Communication",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 12,
+        "branch": "IT",
+        "sem": "2",
+        "day": "WED",
+        "subject": "OOPS & System Design",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 13,
+        "branch": "IT",
+        "sem": "2",
+        "day": "THUR",
+        "subject": "Web Design & App Dev-II LAB",
+        "time": "09:00 - 11:00"
+      },
+      {
+        "id": 14,
+        "branch": "IT",
+        "sem": "2",
+        "day": "THUR",
+        "subject": "Data Structures LAB",
+        "time": "14:30 - 16:30"
+      },
+      {
+        "id": 15,
+        "branch": "IT",
+        "sem": "2",
+        "day": "FRI",
+        "subject": "Web Design & App Dev-II",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 16,
+        "branch": "IT",
+        "sem": "2",
+        "day": "FRI",
+        "subject": "OOPS & System Design LAB",
+        "time": "11:00 - 13:00"
+      },
+      {
+        "id": 17,
+        "branch": "IT",
+        "sem": "2",
+        "day": "SAT",
+        "subject": "Web Design & App Dev-II",
+        "time": "11:00 - 13:00"
+      }
+    ],
+    "3": [
+      {
+        "id": 1,
+        "branch": "IT",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Probability and Statistics",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 2,
+        "branch": "IT",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 3,
+        "branch": "IT",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Software Engineering",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 4,
+        "branch": "IT",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Data Communication",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 5,
+        "branch": "IT",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Sports - III",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 6,
+        "branch": "IT",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Probability and Statistics",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 7,
+        "branch": "IT",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Theory of Automata",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 8,
+        "branch": "IT",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Software Engineering",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 9,
+        "branch": "IT",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 10,
+        "branch": "IT",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Data Communication",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 11,
+        "branch": "IT",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Probability and Statistics",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 12,
+        "branch": "IT",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Theory of Automata",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 13,
+        "branch": "IT",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Software Engineering",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 14,
+        "branch": "IT",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Data Communication",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 15,
+        "branch": "IT",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Theory of Automata",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 16,
+        "branch": "IT",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 17,
+        "branch": "IT",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Software Engineering LAB",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 18,
+        "branch": "IT",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Competitive Coding - I",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 19,
+        "branch": "IT",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Design and Analysis of Algorithms LAB",
+        "time": "15:35 - 16:35"
+      }
+    ],
+    "4": [
+      {
+        "id": 1,
+        "branch": "IT",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Compiler Design",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 2,
+        "branch": "IT",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Maths for CS-I",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 3,
+        "branch": "IT",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Operating System",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 4,
+        "branch": "IT",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Programming & Data Structures",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 5,
+        "branch": "IT",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Compiler Design",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 6,
+        "branch": "IT",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Maths for CS-I",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 7,
+        "branch": "IT",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Computer Networks",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 8,
+        "branch": "IT",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Programming & Data Structures",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 9,
+        "branch": "IT",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Compiler Design",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 10,
+        "branch": "IT",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Maths for CS-I",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 11,
+        "branch": "IT",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Computer Networks",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 12,
+        "branch": "IT",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Programming & Data Structures",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 13,
+        "branch": "IT",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Compiler Design",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 14,
+        "branch": "IT",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Operating System",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 15,
+        "branch": "IT",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Operating System Lab",
+        "time": "03:35 - 05:35"
+      },
+      {
+        "id": 16,
+        "branch": "IT",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Programming & Data Structures Lab",
+        "time": "10:05 - 12:05"
+      },
+      {
+        "id": 17,
+        "branch": "IT",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Competitive Coding",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 18,
+        "branch": "IT",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Computer Networks Lab",
+        "time": "02:30 - 04:30"
+      }
+    ],
+    "6": [
+      {
+        "id": 1,
+        "branch": "IT",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 2,
+        "branch": "IT",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Probability & Statistics (MS)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 3,
+        "branch": "IT",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Techno-Entrepreneurship",
+        "time": "11:45 - 01:15"
+      },
+      {
+        "id": 4,
+        "branch": "IT",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Elective-II",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "IT",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 6,
+        "branch": "IT",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Probability & Statistics (MS)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 7,
+        "branch": "IT",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Techno-Entrepreneurship",
+        "time": "11:45 - 01:15"
+      },
+      {
+        "id": 8,
+        "branch": "IT",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Elective-II",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 9,
+        "branch": "IT",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 10,
+        "branch": "IT",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Probability & Statistics (MS)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 11,
+        "branch": "IT",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Techno-Entrepreneurship",
+        "time": "11:45 - 01:15"
+      },
+      {
+        "id": 12,
+        "branch": "IT",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Elective-II",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 13,
+        "branch": "IT",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Competitive Coding Tutorial",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 14,
+        "branch": "IT",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Probability & Statistics Tutorial",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 15,
+        "branch": "IT",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Elective-II Lab",
+        "time": "02:30 - 04:30"
+      },
+      {
+        "id": 16,
+        "branch": "IT",
+        "sem": "6",
+        "day": "FRI",
+        "subject": "Computer Networks Lab",
+        "time": "11:45 - 01:15"
+      }
+    ],
+    "7": [
+      {
+        "id": 1,
+        "branch": "IT",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Data Mining & Warehousing (SAS)",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 2,
+        "branch": "IT",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Professional Ethics (PE)",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 3,
+        "branch": "IT",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Reinforcement Learning / FinTech (SS/VF)",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 4,
+        "branch": "IT",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Natural Language Processing (GS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "IT",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Data Mining & Warehousing (SAS)",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 6,
+        "branch": "IT",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Professional Ethics (PE)",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 7,
+        "branch": "IT",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Reinforcement Learning / FinTech (SS/VF)",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 8,
+        "branch": "IT",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Natural Language Processing (GS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 9,
+        "branch": "IT",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Data Mining & Warehousing (SAS)",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 10,
+        "branch": "IT",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Reinforcement Learning / FinTech (SS/VF)",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 11,
+        "branch": "IT",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Natural Language Processing (GS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 12,
+        "branch": "IT",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Data Mining & Warehousing (SAS)",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 13,
+        "branch": "IT",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Reinforcement Learning / FinTech LAB (SS/VF LAB)",
+        "time": "11:15 - 01:20"
+      },
+      {
+        "id": 14,
+        "branch": "IT",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Natural Language Processing (GS)",
+        "time": "02:30 - 03:30"
+      }
+    ],
+    "5": [
+      {
+        "id": 1,
+        "branch": "IT",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Cloud Computing",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 2,
+        "branch": "IT",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Foundations of Cryptography",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 3,
+        "branch": "IT",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Soft Computing",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 4,
+        "branch": "IT",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Computer Graphics",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "IT",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Elective-I (Blockchain / AI)",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 6,
+        "branch": "IT",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Cloud Computing",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 7,
+        "branch": "IT",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Foundations of Cryptography",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 8,
+        "branch": "IT",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Soft Computing",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 9,
+        "branch": "IT",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Computer Graphics",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 10,
+        "branch": "IT",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Elective-I (Blockchain / AI)",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 11,
+        "branch": "IT",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Cloud Computing",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 12,
+        "branch": "IT",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Foundations of Cryptography",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 13,
+        "branch": "IT",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Soft Computing",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 14,
+        "branch": "IT",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Computer Graphics",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 15,
+        "branch": "IT",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Elective-I LAB",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 16,
+        "branch": "IT",
+        "sem": "5",
+        "day": "THUR",
+        "subject": "Soft Computing LAB",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 17,
+        "branch": "IT",
+        "sem": "5",
+        "day": "THUR",
+        "subject": "Computer Graphics LAB",
+        "time": "02:30 - 04:35"
+      },
+      {
+        "id": 18,
+        "branch": "IT",
+        "sem": "5",
+        "day": "FRI",
+        "subject": "Competitive Coding - III",
+        "time": "02:30 - 03:30"
+      }
+    ]
+  },
+  "csai": {
+    "1": [
+      {
+        "id": 1,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 2,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Database Management System (SJ LAB)",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 3,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "MON",
+        "subject": "System Programming & Scripting",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 4,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Web Design & App Dev-I",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Web Design & App Dev-I",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 6,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Sports-I",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 7,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 8,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Database Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 9,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 10,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 11,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Computational Thinking LAB",
+        "time": "03:35 - 05:40"
+      },
+      {
+        "id": 12,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 13,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Database Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 14,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 15,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "WED",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 16,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Web Design & App Dev-I",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 17,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Database Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 18,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 19,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Database Management System LAB",
+        "time": "02:30 - 04:35"
+      },
+      {
+        "id": 20,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "FRI",
+        "subject": "System Programming & Scripting LAB",
+        "time": "11:15 - 01:20"
+      },
+      {
+        "id": 21,
+        "branch": "CSAI",
+        "sem": "1",
+        "day": "FRI",
+        "subject": "Web Design & App Dev-I LAB",
+        "time": "03:35 - 04:35"
+      }
+    ],
+    "2": [
+      {
+        "id": 1,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Professional Communication",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 2,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Computer Organization & Architecture",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 3,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Data Structures",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 4,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "MON",
+        "subject": "OOPS & System Design",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 5,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Professional Communication",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 6,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Computer Organization & Architecture",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 7,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Data Structures",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 8,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "OOPS & System Design",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 9,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Professional Communication",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 10,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Computer Organization & Architecture",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 11,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Data Structures",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 12,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "WED",
+        "subject": "OOPS & System Design",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 13,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "THUR",
+        "subject": "Data Structures LAB",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 14,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "THUR",
+        "subject": "Web Design & Application Dev-II LAB",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 15,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "FRI",
+        "subject": "Web Design & Application Dev-II",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 16,
+        "branch": "CSAI",
+        "sem": "2",
+        "day": "FRI",
+        "subject": "OOPS & System Design LAB",
+        "time": "16:40 - 17:40"
+      }
+    ],
+    "3": [
+      {
+        "id": 1,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Probability and Statistics",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 2,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Software Engineering",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 3,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 4,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Data Communication",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 5,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Theory of Automata",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 6,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Software Engineering",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 7,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Data Communication",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 8,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Sports-III",
+        "time": "17:45 - 18:45"
+      },
+      {
+        "id": 9,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Probability and Statistics",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 10,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Theory of Automata",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 11,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 12,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Data Communication",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 13,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Probability and Statistics",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 14,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Theory of Automata",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 15,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 16,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Competitive Coding - I",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 17,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Software Engineering",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 18,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Software Engineering LAB",
+        "time": "14:30 - 16:35"
+      },
+      {
+        "id": 19,
+        "branch": "CSAI",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Design and Analysis of Algorithms LAB",
+        "time": "16:40 - 18:45"
+      }
+    ],
+    "4": [
+      {
+        "id": 1,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Computer Networks",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 2,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Compiler Design",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 3,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Maths for CS-I",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 4,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Operating System",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Advanced Programming Language",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 6,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Computer Networks",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 7,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Compiler Design",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 8,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Maths for CS-I",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 9,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Operating System",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 10,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Advanced Programming Language",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 11,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Computer Networks",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 12,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Compiler Design",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 13,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Maths for CS-I",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 14,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Operating System",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 15,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Advanced Programming Language",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 16,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Competitive Coding",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 17,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Compiler Design",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 18,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Operating System Lab",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 19,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Computer Networks Lab",
+        "time": "10:05 - 12:05"
+      },
+      {
+        "id": 20,
+        "branch": "CSAI",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Advanced Programming Language Lab",
+        "time": "12:15 - 02:15"
+      }
+    ],
+    "6": [
+      {
+        "id": 1,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 2,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Maths-I / Soft Computing (SA)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 3,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Maths-II (MS2)",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 4,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "MON",
+        "subject": "People Management (PT)",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 5,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Artificial Intelligence (SS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 6,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Techno-Entrepreneurship (BS)",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 7,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 8,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Maths-I / Soft Computing (SA)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 9,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Deep Learning / Maths-II (SC/MS2)",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 10,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "People Management (PT)",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 11,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Artificial Intelligence (SS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 12,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Techno-Entrepreneurship (BS)",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 13,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 14,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Maths-I / Soft Computing (SA)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 15,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Deep Learning / Maths-II (SC/MS2)",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 16,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "WED",
+        "subject": "People Management (PT)",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 17,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Artificial Intelligence (SS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 18,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Techno-Entrepreneurship (BS)",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 19,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Competitive Coding Tutorial",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 20,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Maths-I Tutorial / SA",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 21,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Deep Learning / Maths-II (SC/MS2)",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 22,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "People Management (PT)",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 23,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Artificial Intelligence Lab (SS LAB)",
+        "time": "02:30 - 04:30"
+      },
+      {
+        "id": 24,
+        "branch": "CSAI",
+        "sem": "6",
+        "day": "FRI",
+        "subject": "Deep Learning Lab (SC LAB)",
+        "time": "02:30 - 04:30"
+      }
+    ],
+    "7": [
+      {
+        "id": 1,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Professional Ethics",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 2,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Elective III",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 3,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Elective IV",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 4,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Professional Ethics",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 5,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Elective III",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 6,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Elective IV",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 7,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Elective III",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 8,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Elective IV",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 9,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Elective III",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 10,
+        "branch": "CSAI",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Elective IV",
+        "time": "12:20 - 01:20"
+      }
+    ],
+    "5": [
+      {
+        "id": 1,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Machine Learning",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 2,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Soft Computing",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 3,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Artificial Intelligence",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 4,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Mathematics for CS II",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 5,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Computer Graphics",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 6,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Machine Learning",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 7,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Soft Computing",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 8,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Artificial Intelligence",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 9,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Mathematics for CS II",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 10,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Computer Graphics",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 11,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Machine Learning",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 12,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Soft Computing",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 13,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Artificial Intelligence",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 14,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Mathematics for CS II",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 15,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Computer Graphics Lab",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 16,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "THUR",
+        "subject": "Soft Computing Lab",
+        "time": "11:15 - 01:15"
+      },
+      {
+        "id": 17,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "THUR",
+        "subject": "Computer Graphics",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 18,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "FRI",
+        "subject": "Artificial Intelligence Lab",
+        "time": "02:30 - 04:30"
+      },
+      {
+        "id": 19,
+        "branch": "CSAI",
+        "sem": "5",
+        "day": "FRI",
+        "subject": "Competitive Coding - III",
+        "time": "04:40 - 05:40"
+      }
+    ]
+  },
+  "csb": {
+    "1": [
+      {
+        "id": 1,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 2,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Database Management System (SJ LAB)",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 3,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "MON",
+        "subject": "System Programming & Scripting",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 4,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Web Design & App Dev-I",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Web Design & App Dev-I",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 6,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "MON",
+        "subject": "Sports-I",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 7,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 8,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Database Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 9,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 10,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 11,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "TUE",
+        "subject": "Computational Thinking LAB",
+        "time": "03:35 - 05:40"
+      },
+      {
+        "id": 12,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Professional Communication",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "id": 13,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Database Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 14,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 15,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "WED",
+        "subject": "System Programming & Scripting",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 16,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "WED",
+        "subject": "Web Design & App Dev-I",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 17,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Database Management System",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 18,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Computational Thinking",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 19,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "THUR",
+        "subject": "Database Management System LAB",
+        "time": "02:30 - 04:35"
+      },
+      {
+        "id": 20,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "FRI",
+        "subject": "System Programming & Scripting LAB",
+        "time": "11:15 - 01:20"
+      },
+      {
+        "id": 21,
+        "branch": "CSB",
+        "sem": "1",
+        "day": "FRI",
+        "subject": "Web Design & App Dev-I LAB",
+        "time": "03:35 - 04:35"
+      }
+    ],
+    "2": [
+      {
+        "id": 1,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Professional Communication",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 2,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Computer Organization & Architecture",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 3,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "MON",
+        "subject": "Data Structures",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 4,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "MON",
+        "subject": "OOPS & System Design",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 5,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Professional Communication",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 6,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Computer Organization & Architecture",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 7,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "Data Structures",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 8,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "TUE",
+        "subject": "OOPS & System Design",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 9,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Professional Communication",
+        "time": "12:15 - 13:15"
+      },
+      {
+        "id": 10,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Computer Organization & Architecture",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 11,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "WED",
+        "subject": "Data Structures",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 12,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "WED",
+        "subject": "OOPS & System Design",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 13,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "THUR",
+        "subject": "Data Structures LAB",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 14,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "THUR",
+        "subject": "Web Design & Application Dev-II LAB",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 15,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "FRI",
+        "subject": "Web Design & Application Dev-II",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 16,
+        "branch": "CSB",
+        "sem": "2",
+        "day": "FRI",
+        "subject": "OOPS & System Design LAB",
+        "time": "16:40 - 17:40"
+      }
+    ],
+    "3": [
+      {
+        "id": 1,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Probability and Statistics",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 2,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Software Engineering",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 3,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 4,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "MON",
+        "subject": "Data Communication",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 5,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Theory of Automata",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 6,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Software Engineering",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 7,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Data Communication",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 8,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "TUE",
+        "subject": "Sports-III",
+        "time": "17:45 - 18:45"
+      },
+      {
+        "id": 9,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Probability and Statistics",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 10,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Theory of Automata",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 11,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 12,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "WED",
+        "subject": "Data Communication",
+        "time": "16:40 - 17:40"
+      },
+      {
+        "id": 13,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Probability and Statistics",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 14,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Theory of Automata",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 15,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Design and Analysis of Algorithms",
+        "time": "14:30 - 15:30"
+      },
+      {
+        "id": 16,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "THUR",
+        "subject": "Competitive Coding - I",
+        "time": "15:35 - 16:35"
+      },
+      {
+        "id": 17,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Software Engineering",
+        "time": "12:20 - 13:20"
+      },
+      {
+        "id": 18,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Software Engineering LAB",
+        "time": "14:30 - 16:35"
+      },
+      {
+        "id": 19,
+        "branch": "CSB",
+        "sem": "3",
+        "day": "FRI",
+        "subject": "Design and Analysis of Algorithms LAB",
+        "time": "16:40 - 18:45"
+      }
+    ],
+    "4": [
+      {
+        "id": 1,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Computer Networks",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 2,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Compiler Design",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 3,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Maths for CS-I",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 4,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Operating System",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "MON",
+        "subject": "Advanced Programming Language",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 6,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Computer Networks",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 7,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Compiler Design",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 8,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Maths for CS-I",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 9,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Operating System",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 10,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "TUE",
+        "subject": "Advanced Programming Language",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 11,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Computer Networks",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 12,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Compiler Design",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 13,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Maths for CS-I",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 14,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Operating System",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 15,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Advanced Programming Language",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 16,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "WED",
+        "subject": "Competitive Coding",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 17,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Compiler Design",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 18,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "THUR",
+        "subject": "Operating System Lab",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 19,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Computer Networks Lab",
+        "time": "10:05 - 12:05"
+      },
+      {
+        "id": 20,
+        "branch": "CSB",
+        "sem": "4",
+        "day": "FRI",
+        "subject": "Advanced Programming Language Lab",
+        "time": "12:15 - 02:15"
+      }
+    ],
+    "6": [
+      {
+        "id": 1,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 2,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Maths-I / Soft Computing (SA)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 3,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Maths-II (MS2)",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 4,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "MON",
+        "subject": "People Management (PT)",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 5,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Artificial Intelligence (SS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 6,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "MON",
+        "subject": "Techno-Entrepreneurship (BS)",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 7,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 8,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Maths-I / Soft Computing (SA)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 9,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Deep Learning / Maths-II (SC/MS2)",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 10,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "People Management (PT)",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 11,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Artificial Intelligence (SS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 12,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "TUE",
+        "subject": "Techno-Entrepreneurship (BS)",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 13,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Competitive Coding (SSB)",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 14,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Maths-I / Soft Computing (SA)",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 15,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Deep Learning / Maths-II (SC/MS2)",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 16,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "WED",
+        "subject": "People Management (PT)",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 17,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Artificial Intelligence (SS)",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 18,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "WED",
+        "subject": "Techno-Entrepreneurship (BS)",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 19,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Competitive Coding Tutorial",
+        "time": "09:00 - 10:00"
+      },
+      {
+        "id": 20,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Maths-I Tutorial / SA",
+        "time": "10:05 - 11:05"
+      },
+      {
+        "id": 21,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Deep Learning / Maths-II (SC/MS2)",
+        "time": "11:10 - 12:10"
+      },
+      {
+        "id": 22,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "People Management (PT)",
+        "time": "12:15 - 01:15"
+      },
+      {
+        "id": 23,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "THUR",
+        "subject": "Artificial Intelligence Lab (SS LAB)",
+        "time": "02:30 - 04:30"
+      },
+      {
+        "id": 24,
+        "branch": "CSB",
+        "sem": "6",
+        "day": "FRI",
+        "subject": "Deep Learning Lab (SC LAB)",
+        "time": "02:30 - 04:30"
+      }
+    ],
+    "7": [
+      {
+        "id": 1,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Professional Ethics",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 2,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Elective III",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 3,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "MON",
+        "subject": "Elective IV",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 4,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Professional Ethics",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 5,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Elective III",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 6,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "TUE",
+        "subject": "Elective IV",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 7,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Elective III",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 8,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "WED",
+        "subject": "Elective IV",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 9,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Elective III",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 10,
+        "branch": "CSB",
+        "sem": "7",
+        "day": "THUR",
+        "subject": "Elective IV",
+        "time": "12:20 - 01:20"
+      }
+    ],
+    "5": [
+      {
+        "id": 1,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Business Economics",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 2,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Machine Learning",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 3,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Soft Computing",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 4,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "MON",
+        "subject": "People Management",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 5,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Business Decision Making",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 6,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "MON",
+        "subject": "Artificial Intelligence",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 7,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Business Economics",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 8,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Machine Learning",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 9,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Soft Computing",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 10,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "People Management",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 11,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Business Decision Making",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 12,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "TUE",
+        "subject": "Artificial Intelligence",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 13,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Business Economics",
+        "time": "10:10 - 11:10"
+      },
+      {
+        "id": 14,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Machine Learning",
+        "time": "11:15 - 12:15"
+      },
+      {
+        "id": 15,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Soft Computing",
+        "time": "12:20 - 01:20"
+      },
+      {
+        "id": 16,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "WED",
+        "subject": "People Management",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 17,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Business Decision Making",
+        "time": "03:35 - 04:35"
+      },
+      {
+        "id": 18,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "WED",
+        "subject": "Artificial Intelligence Lab",
+        "time": "04:40 - 05:40"
+      },
+      {
+        "id": 19,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "THUR",
+        "subject": "Soft Computing Lab",
+        "time": "11:15 - 01:15"
+      },
+      {
+        "id": 20,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "THUR",
+        "subject": "Artificial Intelligence",
+        "time": "02:30 - 03:30"
+      },
+      {
+        "id": 21,
+        "branch": "CSB",
+        "sem": "5",
+        "day": "FRI",
+        "subject": "Competitive Coding - III",
+        "time": "04:40 - 05:40"
+      }
+    ]
+  }
+}
