@@ -500,7 +500,7 @@
         "branch": "CS",
         "sem": "4",
         "day": "TUE",
-        "subject": "Programming & Data Structures",
+        "subject": "Advanced Programming Language ",
         "time": "09:00 - 10:00"
       },
       {
@@ -532,7 +532,7 @@
         "branch": "CS",
         "sem": "4",
         "day": "WED",
-        "subject": "Programming & Data Structures",
+        "subject": "Advanced Programming Language",
         "time": "09:00 - 10:00"
       },
       {
@@ -564,7 +564,7 @@
         "branch": "CS",
         "sem": "4",
         "day": "THUR",
-        "subject": "Programming & Data Structures",
+        "subject": "Advanced Programming Language ",
         "time": "09:00 - 10:00"
       },
       {
@@ -596,7 +596,7 @@
         "branch": "CS",
         "sem": "4",
         "day": "FRI",
-        "subject": "Programming & Data Structures Lab",
+        "subject": "Advanced Programming Language Lab",
         "time": "10:05 - 12:05"
       },
       {
@@ -1540,7 +1540,7 @@
         "branch": "IT",
         "sem": "4",
         "day": "TUE",
-        "subject": "Programming & Data Structures",
+        "subject": "Advanced Programming Language ",
         "time": "09:00 - 10:00"
       },
       {
@@ -1572,7 +1572,7 @@
         "branch": "IT",
         "sem": "4",
         "day": "WED",
-        "subject": "Programming & Data Structures",
+        "subject": "Advanced Programming Language ",
         "time": "09:00 - 10:00"
       },
       {
@@ -1604,7 +1604,7 @@
         "branch": "IT",
         "sem": "4",
         "day": "THUR",
-        "subject": "Programming & Data Structures",
+        "subject": "Advanced Programming Language ",
         "time": "09:00 - 10:00"
       },
       {
@@ -1636,7 +1636,7 @@
         "branch": "IT",
         "sem": "4",
         "day": "FRI",
-        "subject": "Programming & Data Structures Lab",
+        "subject": "Advanced Programming Language Lab",
         "time": "10:05 - 12:05"
       },
       {
