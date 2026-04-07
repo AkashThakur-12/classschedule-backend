@@ -3551,167 +3551,164 @@
       }
     ],
     "4": [
-      {
-        "id": 1,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "MON",
-        "subject": "Computer Networks",
-        "time": "10:05 - 11:05"
-      },
-      {
-        "id": 2,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "MON",
-        "subject": "Compiler Design",
-        "time": "11:10 - 12:10"
-      },
-      {
-        "id": 3,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "MON",
-        "subject": "Maths for CS-I",
-        "time": "12:15 - 01:15"
-      },
-      {
-        "id": 4,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "MON",
-        "subject": "Operating System",
-        "time": "02:30 - 03:30"
-      },
-      {
-        "id": 5,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "MON",
-        "subject": "Advanced Programming Language",
-        "time": "03:35 - 04:35"
-      },
-      {
-        "id": 6,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "TUE",
-        "subject": "Computer Networks",
-        "time": "10:05 - 11:05"
-      },
-      {
-        "id": 7,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "TUE",
-        "subject": "Compiler Design",
-        "time": "11:10 - 12:10"
-      },
-      {
-        "id": 8,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "TUE",
-        "subject": "Maths for CS-I",
-        "time": "12:15 - 01:15"
-      },
-      {
-        "id": 9,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "TUE",
-        "subject": "Operating System",
-        "time": "02:30 - 03:30"
-      },
-      {
-        "id": 10,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "TUE",
-        "subject": "Advanced Programming Language",
-        "time": "03:35 - 04:35"
-      },
-      {
-        "id": 11,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "WED",
-        "subject": "Computer Networks",
-        "time": "10:05 - 11:05"
-      },
-      {
-        "id": 12,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "WED",
-        "subject": "Compiler Design",
-        "time": "11:10 - 12:10"
-      },
-      {
-        "id": 13,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "WED",
-        "subject": "Maths for CS-I",
-        "time": "12:15 - 01:15"
-      },
-      {
-        "id": 14,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "WED",
-        "subject": "Operating System",
-        "time": "02:30 - 03:30"
-      },
-      {
-        "id": 15,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "WED",
-        "subject": "Advanced Programming Language",
-        "time": "03:35 - 04:35"
-      },
-      {
-        "id": 16,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "WED",
-        "subject": "Competitive Coding",
-        "time": "04:40 - 05:40"
-      },
-      {
-        "id": 17,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "THUR",
-        "subject": "Compiler Design",
-        "time": "11:10 - 12:10"
-      },
-      {
-        "id": 18,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "THUR",
-        "subject": "Operating System Lab",
-        "time": "02:30 - 03:30"
-      },
-      {
-        "id": 19,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "FRI",
-        "subject": "Computer Networks Lab",
-        "time": "10:05 - 12:05"
-      },
-      {
-        "id": 20,
-        "branch": "CSB",
-        "sem": "4",
-        "day": "FRI",
-        "subject": "Advanced Programming Language Lab",
-        "time": "12:15 - 02:15"
-      }
-    ],
+      
+  {
+    "id": 1,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "MON",
+    "subject": "Advanced Programming Language",
+    "time": "10:05 - 11:05"
+  },
+  {
+    "id": 2,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "MON",
+    "subject": " Discrete Maths ",
+    "time": "12:15 - 01:15"
+  },
+  {
+    "id": 3,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "MON",
+    "subject": "Compiler Design",
+    "time": "02:30 - 03:30"
+  },
+  {
+    "id": 4,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "MON",
+    "subject": "Computer Networks",
+    "time": "03:35 - 04:35"
+  },
+
+  {
+    "id": 5,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "TUE",
+    "subject": "Advanced Programming Language",
+    "time": "10:05 - 11:05"
+  },
+  {
+    "id": 6,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "TUE",
+    "subject": "Operating System",
+    "time": "11:10 - 12:10"
+  },
+  {
+    "id": 7,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "TUE",
+    "subject": " Discrete Maths ",
+    "time": "12:15 - 01:15"
+  },
+  {
+    "id": 8,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "TUE",
+    "subject": "Compiler Design",
+    "time": "02:30 - 03:30"
+  },
+  {
+    "id": 9,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "TUE",
+    "subject": "Computer Networks",
+    "time": "03:35 - 04:35"
+  },
+
+  {
+    "id": 10,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "WED",
+    "subject": "Advanced Programming Language",
+    "time": "10:05 - 11:05"
+  },
+  {
+    "id": 11,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "WED",
+    "subject": "Operating System",
+    "time": "11:10 - 12:10"
+  },
+  {
+    "id": 12,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "WED",
+    "subject": " Discrete Maths ",
+    "time": "12:15 - 01:15"
+  },
+  {
+    "id": 13,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "WED",
+    "subject": "Compiler Design",
+    "time": "02:30 - 03:30"
+  },
+  {
+    "id": 14,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "WED",
+    "subject": "Computer Networks",
+    "time": "03:35 - 04:35"
+  },
+
+  {
+    "id": 15,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "THUR",
+    "subject": "Advanced Programming Language Lab",
+    "time": "09:00 - 11:05"
+  },
+  {
+    "id": 16,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "THUR",
+    "subject": "Operating System",
+    "time": "11:10 - 12:10"
+  },
+  {
+    "id": 17,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "THUR",
+    "subject": "Competitive Coding",
+    "time": "04:40 - 05:40"
+  },
+
+  {
+    "id": 18,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "FRI",
+    "subject": "Computer Networks Lab",
+    "time": "11:10 - 01:15"
+  },
+  {
+    "id": 19,
+    "branch": "CSB",
+    "sem": "4",
+    "day": "FRI",
+    "subject": "Operating System Lab",
+    "time": "02:30 - 04:35"
+  }
+],
     "6": [
       {
         "id": 1,
